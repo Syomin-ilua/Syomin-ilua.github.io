@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeueRegular.eot');
+    src: url('../fonts/BebasNeueRegular.eot') format('embedded-opentype'),
+         url('../fonts/BebasNeueRegular.woff2') format('woff2'),
+         url('../fonts/BebasNeueRegular.woff') format('woff'),
+         url('../fonts/BebasNeueRegular.ttf') format('truetype'),
+         url('../fonts/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('../fonts/OpenSansBold.eot');
+    src: url('../fonts/OpenSansBold.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansBold.woff2') format('woff2'),
+         url('../fonts/OpenSansBold.woff') format('woff'),
+         url('../fonts/OpenSansBold.ttf') format('truetype'),
+         url('../fonts/OpenSansBold.svg#OpenSansBold') format('svg');
+}
+@font-face {
+    font-family: 'LatoBold';
+    src: url('../fonts/LatoBold.eot');
+    src: url('../fonts/LatoBold.eot') format('embedded-opentype'),
+         url('../fonts/LatoBold.woff2') format('woff2'),
+         url('../fonts/LatoBold.woff') format('woff'),
+         url('../fonts/LatoBold.ttf') format('truetype'),
+         url('../fonts/LatoBold.svg#LatoBold') format('svg');
+}
+@font-face {
+    font-family: 'LobsterRegular';
+    src: url('../fonts/LobsterRegular.eot');
+    src: url('../fonts/LobsterRegular.eot') format('embedded-opentype'),
+         url('../fonts/LobsterRegular.woff2') format('woff2'),
+         url('../fonts/LobsterRegular.woff') format('woff'),
+         url('../fonts/LobsterRegular.ttf') format('truetype'),
+         url('../fonts/LobsterRegular.svg#LobsterRegular') format('svg');
+}
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.box1 {
+    font-family: 'OpenSansBold'; 
+}
+.box2 {
+    font-family: 'BebasNeueRegular'; 
+}
+.box3 {
+    font-family: 'LatoBold'; 
+}
+.box4 {
+    font-family: 'LobsterRegular'; 
+}
