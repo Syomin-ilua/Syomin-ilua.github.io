@@ -12,3 +12,5 @@
 [Урок 12](https://syomin-ilua.github.io/lesson_12/src/ "работа с репозиторием на Github") - работа с репозиторием на Github
 
 [Урок 13](https://syomin-ilua.github.io/lesson_13/src/ "вёрстка в стиле Pixel Perfect") - вёрстка в стиле Pixel Perfect 
+
+[Модуль 5. Практика. Часть 1](https://syomin-ilua.github.io/Module%205%20Part%201/src/ "Вёрстка шапки сайта") - вёрстка шапки сайта
