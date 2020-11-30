@@ -38,3 +38,5 @@
 [Модуль 5.Практика. Часть 6](https://syomin-ilua.github.io/Module%205.Practice.Part%206/src/ "Верстка блока с ценами") - Верстка блока с ценами
 
 [Урок 19](https://syomin-ilua.github.io/lesson_19/ "Анимация на CSS3") - Анимация на CSS3
+
+[Модуль 6. Практика. Часть 7.](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%207/src/ "слайдер с отзывами") - Верстка блока с отзывами
