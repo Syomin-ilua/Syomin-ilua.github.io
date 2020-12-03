@@ -40,3 +40,5 @@
 [Урок 19](https://syomin-ilua.github.io/lesson_19/ "Анимация на CSS3") - Анимация на CSS3
 
 [Модуль 6. Практика. Часть 7.](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%207/src/ "слайдер с отзывами") - Верстка блока с отзывами
+
+[Урок 20](https://syomin-ilua.github.io/lesson_20/ "Видео-фон на сайте") - Видео-фон на сайте
