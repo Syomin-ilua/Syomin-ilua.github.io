@@ -42,3 +42,5 @@
 [Модуль 6. Практика. Часть 7.](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%207/src/ "слайдер с отзывами") - Верстка блока с отзывами
 
 [Урок 20](https://syomin-ilua.github.io/lesson_20/ "Видео-фон на сайте") - Видео-фон на сайте
+
+[Модуль 6. Практика. Часть 8](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%208/src/ "Доверстали блок с отзывами") - Доверстали блок с отзывами
