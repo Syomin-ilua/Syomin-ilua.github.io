@@ -48,3 +48,5 @@
 [Урок 21](https://syomin-ilua.github.io/lesson_21/ "Parallax эффект для сайта") - Parallax эффект для сайта
 
 [Модуль 6. Практика. Часть 9](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%209/src/ "Верстаем схему работы и все включено") - Верстаем схему работы и все включено
+
+[Урок 22](https://syomin-ilua.github.io/lesson_22/ "Гео-карты для сайта") - Гео-карты для сайта
