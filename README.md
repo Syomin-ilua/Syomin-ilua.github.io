@@ -52,3 +52,5 @@
 [Урок 22](https://syomin-ilua.github.io/lesson_22/ "Гео-карты для сайта") - Гео-карты для сайта
 
 [Модуль 6. Практика. Часть 10](https://syomin-ilua.github.io/Module%206.%20Practice.%20Part%2010/src/ "Верстаем блок Развеиваем сомнения") - Верстаем блок "Развеиваем сомнения"
+
+[3 practical lessons(part 11, part 12, part 13)](https://syomin-ilua.github.io/3%20practical%20lessons(part%2011,%20part%2012,%20part%2013)/src/ "3 практических урока") - 3 практических урока - Блок "Материалы", Блок "Экрскурсия" и "Доп. услуги", Блок "Контакты" и "Подвал"
